@@ -1,1 +1,1 @@
-# 30-days-coding
+# Edtech Landing Page
